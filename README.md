@@ -6,7 +6,7 @@ Note that I haven't completed every day (or year) yet, so don't be surprised to 
 
 ## Getting Started
 
-To explore my solutions, simply download the repository and ensure you have Python installed on your machine. You can then run the scripts using the IDE of choice.
+To explore my solutions, simply download the repository and ensure you have Python installed on your machine. You can then run the scripts using the IDE of your choice.
 
 ### Libraries
 
